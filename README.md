@@ -2,13 +2,13 @@
 
 # MediTrack: End-to-End Product Data Analytics
 
-**Role**: Product Data Analyst
-**Tools**: Python (Polars/Pandas,Plotly), SQL (BigQuery), Machine Learning (Scikit-Learn), Amplitude, Looker Studio, Figma.
+- **Role**: Product Data Analyst
+- **Tools**: Python (Polars/Pandas,Plotly), SQL (BigQuery), Machine Learning (Scikit-Learn), Amplitude, Looker Studio, Figma.
 
 ## 🚀 Project Overview
-**MediTrack** is a telemedicine app connecting patients with doctors for video consultations.
-**The Problem**: Despite healthy sign-up rates, the app suffered from a 60% drop-off in the booking flow and high churn among new users.
-**The Goal**: As the Product Analyst, I was tasked with analyzing the user journey, predicting churn, and proposing data-driven product improvements.
+- **MediTrack** is a telemedicine app connecting patients with doctors for video consultations.
+- **The Problem**: Despite healthy sign-up rates, the app suffered from a 60% drop-off in the booking flow and high churn among new users.
+- **The Goal**: As the Product Analyst, I was tasked with analyzing the user journey, predicting churn, and proposing data-driven product improvements.
 
 ## 🏗️ Tech Stack
 - Data Generation: Python (Faker, Numpy)
@@ -40,14 +40,14 @@ I identified a critical bottleneck in the booking flow:
 
 ### 2. Churn Prediction Model (Python)
 I built a Random Forest Classifier to identify at-risk users.
--**Top Feature:** Total_Events (Engagement) was the #1 predictor of retention.
+- **Top Feature:** Total_Events (Engagement) was the #1 predictor of retention.
 
--**Action:** Users with <5 events in Week 1 are now flagged for re-engagement email campaign.
+- **Action:** Users with <5 events in Week 1 are now flagged for re-engagement email campaign.
 
 ### 3. User Segmentation
--**Insight:** Android users had a **15% lower retention rate** than iOS users
+- **Insight:** Android users had a **15% lower retention rate** than iOS users
 
--**Recommendation:** Initiated a 'Bug Bash' sprint for the Android engineering team.
+- **Recommendation:** Initiated a 'Bug Bash' sprint for the Android engineering team.
 
 ## 📊 Dashboards & Visualizations
 ### [Executive Dashboard (Looker Studio)](https://lookerstudio.google.com/reporting/a5cf21f4-7b9d-4ad0-81f2-8f0b55eaa23e)
@@ -83,16 +83,16 @@ Includes '98% Match' ML Badge.
 
 ## How to Run this Project
 ### 1. Install Dependencies
-Bash
-pip install polars pandas plotly scikit-learn streamlit
+- Bash
+- pip install polars pandas plotly scikit-learn streamlit
 
 ### 2. Generate Data
-Bash
-python data_generation.py
+- Bash
+- python data_generation.py
 
 ### 3. Run the Dashboard
-Bash
-streamlit run dashboard.py
+- Bash
+- streamlit run dashboard.py
 
 
 
