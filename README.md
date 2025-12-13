@@ -30,7 +30,7 @@
 - Design Strategy: Figma
 
 ## 🔍 Key Insights & Analysis
-### 1. The "Funnel of Death" (SQL & [(Amplitude)](https://app.eu.amplitude.com/analytics/muddy-wildflower-011456/dashboard/e-rid3l075?source=copy+url)
+### 1. The "Funnel of Death" (SQL & [Amplitude](https://app.eu.amplitude.com/analytics/muddy-wildflower-011456/dashboard/e-rid3l075?source=copy+url)
 I identified a critical bottleneck in the booking flow:
 - **Insight: 60% of users drop off** after viewing a doctor's profile
   
