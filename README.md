@@ -1,5 +1,8 @@
 <img width="800" height="800" alt="Gemini_Generated_Image_b2n5dfb2n5dfb2n5" src="https://github.com/user-attachments/assets/d8c2a048-3ced-4e94-8c27-2e7937c2e814" />
 
+![Project Status](https://img.shields.io/badge/Status-Completed-success)
+![Stack](https://img.shields.io/badge/Stack-Google_BigQuery_|_Python_|_Scikit--Learn_|_Amplitude_|_Looker_Studio_|_Figma_|_Streamlit-blue)
+
 # MediTrack: End-to-End Product Data Analytics
 
 - **Role**: Product Data Analyst
